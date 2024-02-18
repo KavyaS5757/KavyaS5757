@@ -19,11 +19,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=blue&height=100"/>
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20Everyone!&fontSize=90" />
-</p>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/kavya-subramanian-664862227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
