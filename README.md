@@ -67,6 +67,8 @@ currently_learning: ["Generative AI", "LLM", "NLP"]
 2024 Goals: ["Create 25+ projects and learn new technologies."]
 hobbies: ["Reading", "Hearing music"]
 
+```
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -84,4 +86,3 @@ hobbies: ["Reading", "Hearing music"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45"/>
 </p>
-```
