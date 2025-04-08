@@ -59,8 +59,10 @@ technical_background:
   "ML Engineer",
   "Cybersecurity Engage Program Mentee @Microsoft",
   "Web Developer@ Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
-  "Intern@ Indian Statistical Institute(Kolkata) - Deep Learning Research",
+  "Intern@ Indian Statistical Institute(Kolkata)(IASC-INSA-NASI) - Deep Learning Research(Summer Research Fellowship)",
   "Intern@ Techowiz - Research Analyst",
+  "Intern@ Indian Institute of Science - AI/ML Intern",
+  "Intern@ Harvard University - Data Engineering Internship",
 ]
 
 currently_learning: ["Generative AI", "LLM", "NLP"]
