@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Kavya S
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AI%20%7C%20Data%20Science%20%7C%20ML%20Engineer&animation=fadeIn&type=waving&color=0:1E90FF,100:00BFFF&height=120" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?text=AI%20%7C%20Data%20Science%20%7C%20ML%20Engineer&animation=fadeIn&type=waving&color=0:1E90FF,100:00BFFF&width=1200&height=150"/>
 </p>
 
 <p align="center">
