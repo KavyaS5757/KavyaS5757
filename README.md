@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 * 🎓 Mechanical Engineering @ **NIT Jalandhar**
-* 💼 Currently working as **Data Analyst @ Preferred Square**
+* 💼 Currently working as **Data Analyst**
 * 🔁 Transitioned into **Data Science & AI**
 * 🤖 Passionate about building **end-to-end AI systems**
 * 🧠 Exploring **Generative AI, LLMs & NLP**
@@ -23,7 +23,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Data Analyst — Preferred Square
+### 🏢 Data Analyst
 
 * 📊 Worked on **data-driven decision making systems**
 * 📈 Built dashboards & analytics pipelines
